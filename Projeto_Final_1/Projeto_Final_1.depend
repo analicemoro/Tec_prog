@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1748300979 source:c:\users\analice\documents\técnicas de programação\projeto_final_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"opcoes_autor.h"
+	"opcoes_livro.h"
+	"menu.h"
+	"geral.h"
+
+1748206714 c:\users\analice\documents\técnicas de programação\projeto_final_1\opcoesautor.h
+	"Autor.h"
+	"Livro.h"
+
+1748206359 c:\users\analice\documents\técnicas de programação\projeto_final_1\autor.h
+
+1748206493 c:\users\analice\documents\técnicas de programação\projeto_final_1\livro.h
+
+1748225958 c:\users\analice\documents\técnicas de programação\projeto_final_1\opcoeslivro.h
+	"Autor.h"
+	"Livro.h"
+
+1748302717 c:\users\analice\documents\técnicas de programação\projeto_final_1\menu.h
+	"opcoes_autor.h"
+	"opcoes_livro.h"
+	"geral.h"
+
+1748206795 c:\users\analice\documents\técnicas de programação\projeto_final_1\geral.h
+
+1748301699 c:\users\analice\documents\técnicas de programação\projeto_final_1\opcoes_autor.h
+	"autor.h"
+	"livro.h"
+
+1748301687 c:\users\analice\documents\técnicas de programação\projeto_final_1\opcoes_livro.h
+	"autor.h"
+	"livro.h"
+
